@@ -47,7 +47,7 @@ public class Main {
         System.out.println(filteredProductsAnotherTask);
 
 
-        // Групуємо продукти за типом
+        // Групуємо продукти за типомм
         Map<String, List<Product>> groupedProducts = groupProductsByType(products);
 
         for (Map.Entry<String, List<Product>> entry : groupedProducts.entrySet()) {
