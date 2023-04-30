@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93bd312b-1267-4cf9-a175-c3db07593a50" name="Changes" comment="finished hw17">
+      <change afterPath="$PROJECT_DIR$/../HW11/HW11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW14/.idea/HW14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW14_1/HW14_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW15/HW15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW18/HW18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pro_HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw10/hw10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw9/hw9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW11/src/coffee/order/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW11/src/coffee/order/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW11/src/coffee/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW11/src/coffee/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW12/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../HW12/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW14_1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../HW14_1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw9/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../hw9/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw9/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw9/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="HW15" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NrYJXh22HLF3INO08hOmEaAZW3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW17" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93bd312b-1267-4cf9-a175-c3db07593a50" name="Changes" comment="" />
+      <created>1680423598378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680423598378</updated>
+    </task>
+    <task id="LOCAL-00001" summary="finished hw17">
+      <created>1680424963355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680424963355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HW17" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished hw17" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished hw17" />
+  </component>
+</project>
