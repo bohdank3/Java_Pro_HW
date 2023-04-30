@@ -41,9 +41,7 @@ public class Product {
         }
     }
 
-    public void setDateAdded(LocalDateTime dateAdded) {
-        this.dateAdded = dateAdded;
-    }
+
 
     @Override
     public String toString() {
