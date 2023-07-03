@@ -1,0 +1,28 @@
+2023-07-03 21:41:58,948 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:14] Initializing CoffeeOrderBoard
+2023-07-03 21:41:58,964 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:20] Добавление нового заказа: Order{orderNumber=0, customerName='Bohdan'}
+2023-07-03 21:41:58,968 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:20] Добавление нового заказа: Order{orderNumber=0, customerName='Serhio'}
+2023-07-03 21:41:58,969 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:20] Добавление нового заказа: Order{orderNumber=0, customerName='Artem'}
+2023-07-03 21:41:58,969 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:20] Добавление нового заказа: Order{orderNumber=0, customerName='teacher'}
+2023-07-03 21:41:58,971 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:49] Текущая очередь заказов:
+2023-07-03 21:41:58,971 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:50] ===============
+2023-07-03 21:41:58,973 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:51] Num | Name
+2023-07-03 21:41:58,974 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 1 | Bohdan
+2023-07-03 21:41:58,976 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 2 | Serhio
+2023-07-03 21:41:58,977 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 3 | Artem
+2023-07-03 21:41:58,977 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 4 | teacher
+2023-07-03 21:41:58,978 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:55] ===============
+2023-07-03 21:41:58,978 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:33] Доставка заказа: Order{orderNumber=1, customerName='Bohdan'}
+2023-07-03 21:41:58,979 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:49] Текущая очередь заказов:
+2023-07-03 21:41:58,979 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:50] ===============
+2023-07-03 21:41:58,979 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:51] Num | Name
+2023-07-03 21:41:58,980 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 2 | Serhio
+2023-07-03 21:41:58,980 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 3 | Artem
+2023-07-03 21:41:58,980 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 4 | teacher
+2023-07-03 21:41:58,980 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:55] ===============
+2023-07-03 21:41:58,981 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:40] Доставка заказа: Order{orderNumber=3, customerName='Artem'}
+2023-07-03 21:41:58,981 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:49] Текущая очередь заказов:
+2023-07-03 21:41:58,981 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:50] ===============
+2023-07-03 21:41:58,982 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:51] Num | Name
+2023-07-03 21:41:58,982 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 2 | Serhio
+2023-07-03 21:41:58,982 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:53] 4 | teacher
+2023-07-03 21:41:58,983 INFO [main] CoffeeOrderBoard [CoffeeOrderBoard.java:55] ===============
